@@ -8,6 +8,8 @@
  * -------------------
  * For Each Project
  * ===============
+ * 1.heroku create
+ * 2.git add . , git commit -m "adding Step" , git push
  * 
  * 
  * 
