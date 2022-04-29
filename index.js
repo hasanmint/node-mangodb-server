@@ -64,6 +64,10 @@ app.get('/', (req, res) => {
     res.send('Welcome My CURD Server');
 });
 
+app.get('/test', (req, res) => {
+    res.send('Hero Testing deploy')
+})
+
 app.listen(port, () => {
     console.log('CRUD Listen Server is Running');
 })

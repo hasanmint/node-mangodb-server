@@ -9,7 +9,9 @@
  * For Each Project
  * ===============
  * 1.heroku create
- * 2.git add . , git commit -m "adding Step" , git push
+ * 2.maeke must add : git add . , git commit -m "adding Step" , git push
+ * 4.heroku create
+ * 3. git push heroku main
  * 
  * 
  * 
